@@ -2,6 +2,6 @@ Hoi en doei
 # test
 ## test *hoi*
 
-> [!TIP]
+> [!Warning]
 > do not try this at home
 
